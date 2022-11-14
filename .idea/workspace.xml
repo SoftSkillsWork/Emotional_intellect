@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dda88726-6b1f-46dc-a998-ca3594418e2c" name="Changes" comment="Module_3">
+      <change afterPath="$PROJECT_DIR$/3/1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/1.xml.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/009_storage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/009_storage.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/009_storage/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/009_storage_.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/02_center_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/02_center_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/03_center_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/04_center_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/04_center_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/04_center_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/1blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/Spisok_rekomenduemoj_literatury.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/Vector_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/attention.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/ball_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/ball_bottom_mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/ball_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/ball_top_mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/book.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/boxbattle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/course.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/courses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/cursor_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/cursor_click.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/deal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/freeform.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/icon_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img2-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img2-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img2-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img3-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img3-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img3-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img4-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img4-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img4-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img4-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/img4-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/interesting-facts-bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/interesting-facts-bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/interesting-facts-bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/interesting-facts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0000_btn_navi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0000_btn_navi.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0000_btn_navi/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0000_btn_navi_.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position_.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position_frames.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position_frames.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position_frames/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0001_position_frames_.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0002_navi_win.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0002_navi_win.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0002_navi_win/navi_tab_calc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0002_navi_win/navi_tab_contents_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0002_navi_win/navi_tab_sett_sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_0002_navi_win_.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_010_slidename.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_010_slidename.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_010_slidename/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_010_slidename_.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_015_progress.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_015_progress.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_015_progress/blank.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/nav_015_progress_.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/next_pos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pers_1-women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pers_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pers_1_mobile-women.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pers_1_mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pers_women_pensive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/prev_neg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/pt-root-ui-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/splash_bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/splash_bottom_mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/splash_img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/splash_img_mob.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/splash_top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/splash_top_mobile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/images/visited_menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/runtime.xml.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/splash.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/splash.xml.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/start.hta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/start.html.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3/thumbnails/26ee6a4b_84a9_4afd_a145_86a417c56e5d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/adapters/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/build-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/ckeditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/cl-editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/cl-fonts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/cl-lang.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/cl-rte-fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/contents.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/courselab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/fonts-version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/pt-br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/lang/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/cl_action/icons/editaction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/cl_action/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/cl_bgswitch/icons/bgswitch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/cl_bgswitch/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/cl_image/icons/selectimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/cl_image/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/clipboard/dialogs/paste.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/css/codemirror.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/beautify.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.addons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.addons.search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.mode.bbcode.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.mode.bbcodemixed.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.mode.htmlmixed.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.mode.javascript.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/js/codemirror.mode.php.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/3024-day.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/3024-night.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/ambiance-mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/ambiance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/base16-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/base16-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/blackboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/cobalt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/eclipse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/elegant.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/erlang-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/lesser-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/mbo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/mdn-like.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/midnight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/monokai.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/neat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/neo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/night.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/paraiso-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/paraiso-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/pastel-on-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/rubyblue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/solarized.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/the-matrix.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/tomorrow-night-eighties.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/twilight.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/vibrant-ink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/xq-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/codemirror/theme/xq-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/colordialog/dialogs/colordialog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/dialog/dialogDefinition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/dropdownmenumanager/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/find/dialogs/find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/icons_hidpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/image/dialogs/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/image/images/noimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/lineheight/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/lineheight/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/lineheight/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/link/dialogs/anchor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/link/dialogs/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/link/images/anchor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/link/images/hidpi/anchor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/liststyle/dialogs/liststyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/magicline/images/hidpi/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/magicline/images/icon-rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/magicline/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/pastefromword/filter/default.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_address.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_blockquote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_div.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_h1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_h2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_h3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_h4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_h5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_h6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_p.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/showblocks/images/block_pre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/table/dialogs/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/texttransform/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/texttransform/images/transformCapitalize.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/texttransform/images/transformSwitcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/texttransform/images/transformToLower.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/texttransform/images/transformToUpper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/plugins/wordcount/css/wordcount.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/icons_hidpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/hidpi/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/hidpi/lock-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/hidpi/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/hidpi/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/lock-open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/skins/office2013/images/refresh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_light/ClearSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_light/ClearSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_light/ClearSans-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_light/ClearSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_medium/ClearSans-Medium-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_medium/ClearSans-Medium-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_medium/ClearSans-Medium-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_medium/ClearSans-Medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_regular/ClearSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_regular/ClearSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_regular/ClearSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_regular/ClearSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_thin/ClearSans-Thin-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_thin/ClearSans-Thin-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_thin/ClearSans-Thin-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear/clearsans_thin/ClearSans-Thin-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Clear_Font_Family_Apache_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsans_regular/DroidSans-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsans_regular/DroidSans-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsans_regular/DroidSans-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsans_regular/DroidSans-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsansmono_regular/DroidSansMono-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsansmono_regular/DroidSansMono-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsansmono_regular/DroidSansMono-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidsansmono_regular/DroidSansMono-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidserif_regular/DroidSerif-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidserif_regular/DroidSerif-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidserif_regular/DroidSerif-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid/droidserif_regular/DroidSerif-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Droid_Fonf_Family_Apache_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_black/Neris-Black-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_black/Neris-Black-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_black/Neris-Black-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_black/Neris-Black-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_light/Neris-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_light/Neris-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_light/Neris-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_light/Neris-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_semibold/Neris-SemiBold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_semibold/Neris-SemiBold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_semibold/Neris-SemiBold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_semibold/Neris-SemiBold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_thin/Neris-Thin-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_thin/Neris-Thin-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_thin/Neris-Thin-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris/neris_thin/Neris-Thin-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Neris_Font_Family_EULA.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notosans_regular/NotoSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notosans_regular/NotoSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notosans_regular/NotoSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notosans_regular/NotoSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notoserif_regular/NotoSerif-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notoserif_regular/NotoSerif-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notoserif_regular/NotoSerif-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto/notoserif_regular/NotoSerif-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Noto_Font_Family_Apache_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_extrabold/OpenSans-ExtraBold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_extrabold/OpenSans-ExtraBold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_extrabold/OpenSans-ExtraBold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_extrabold/OpenSans-ExtraBold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_light/OpenSans-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_light/OpenSans-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_light/OpenSans-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_light/OpenSans-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_regular/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_regular/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_regular/OpenSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_regular/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_semibold/OpenSans-Semibold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_semibold/OpenSans-Semibold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_semibold/OpenSans-Semibold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensans_semibold/OpenSans-Semibold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensanscondensed_light/OpenSans-CondLight-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensanscondensed_light/OpenSans-CondLight-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensanscondensed_light/OpenSans-CondLight-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open/opensanscondensed_light/OpenSans-CondLight-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Open_Font_Family_Apache_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permiansans_regular/PermianSansTypeface-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permiansans_regular/PermianSansTypeface-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permiansans_regular/PermianSansTypeface-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permiansans_regular/PermianSansTypeface-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianserif_regular/PermianSerifTypeface-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianserif_regular/PermianSerifTypeface-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianserif_regular/PermianSerifTypeface-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianserif_regular/PermianSerifTypeface-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianslabserif_regular/PermianSlabSerifTypeface-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianslabserif_regular/PermianSlabSerifTypeface-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianslabserif_regular/PermianSlabSerifTypeface-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian/permianslabserif_regular/PermianSlabSerifTypeface-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Permian_Free_Font_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_black/Roboto-Black-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_black/Roboto-Black-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_black/Roboto-Black-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_black/Roboto-Black-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_condensed/RobotoCondensed-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_condensed/RobotoCondensed-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_condensed/RobotoCondensed-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_condensed/RobotoCondensed-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_light/Roboto-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_light/Roboto-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_light/Roboto-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_light/Roboto-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_lightcondensed/RobotoCondensed-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_lightcondensed/RobotoCondensed-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_lightcondensed/RobotoCondensed-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_lightcondensed/RobotoCondensed-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_medium/Roboto-Medium-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_medium/Roboto-Medium-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_medium/Roboto-Medium-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_medium/Roboto-Medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_regular/Roboto-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_regular/Roboto-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_regular/Roboto-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_regular/Roboto-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_thin/Roboto-Thin-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_thin/Roboto-Thin-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_thin/Roboto-Thin-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/roboto_thin/Roboto-Thin-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_light/RobotoSlab-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_light/RobotoSlab-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_light/RobotoSlab-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_light/RobotoSlab-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_regular/RobotoSlab-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_regular/RobotoSlab-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_regular/RobotoSlab-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_regular/RobotoSlab-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_thin/RobotoSlab-Thin-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_thin/RobotoSlab-Thin-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_thin/RobotoSlab-Thin-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto/robotoslab_thin/RobotoSlab-Thin-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/Roboto_Font_Family_Apache_License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckeditor/webfonts/cl-web-fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/console.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/1blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/cl-fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/cl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click1.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click2.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click3.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click4.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/click4.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/courselab.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/courselab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/cursor_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/cursor_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/cursor_click.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/cursor_click.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/dummy.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure1.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure2.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure3.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure4.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/failure4.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/jquery.addons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/legacy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/lms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over1.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over2.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over3.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over4.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/over4.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/progress.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success1.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success2.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success3.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success4.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success4.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/courseimages/success4.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eldorado.wcl.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labmedia.wcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labmedia.wcl.tmp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Module_2" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HWldx4Gik9dzKfJX3OyBVTc7v3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/antolii/PhpstormProjects/Emotional_intellect&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$USER_HOME$/WebstormProjects/true-ui/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint:style" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dda88726-6b1f-46dc-a998-ca3594418e2c" name="Changes" comment="" />
+      <created>1668408812153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668408812153</updated>
+      <workItem from="1668408813533" duration="208000" />
+      <workItem from="1668409022784" duration="1217000" />
+      <workItem from="1668410267732" duration="736000" />
+      <workItem from="1668411626317" duration="617000" />
+      <workItem from="1668412565419" duration="40000" />
+      <workItem from="1668412618915" duration="1521000" />
+    </task>
+    <task id="LOCAL-00001" summary="Module_1">
+      <created>1668408931399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668408931399</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Module_2">
+      <created>1668413378411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668413378411</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Module_2">
+      <created>1668413394491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668413394491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Module_3">
+      <created>1668414142108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668414142108</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Module_1" />
+    <MESSAGE value="Module_2" />
+    <MESSAGE value="Module_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module_3" />
+  </component>
+</project>
